@@ -1,6 +1,6 @@
 # Azure data base migration
 The aim of this project was to architect and implement a cloud-based database system on [Microsoft Azure](https://azure.microsoft.com/en-gb), to showcase hands-on expertise in cloud engineering.
-This begins with establishing a production environment database and then migrating the database to Azure SQL Database, focusing on crucial aspects like data backup, restoration, and automated scheduling.
+This begins with establishing a production environment database and then migrating this to Azure SQL Database, focusing on crucial aspects like data backup, restoration, and automated scheduling.
 After this, I will simulate a disaster recovery scenario with potential data loss. In addition to this, using geo-replication and failover configuration, I will ensure data availabilty even under challenging conditions.
 Finally, to enchance security, Microsoft Entra ID intergration will be employed to define access roles, adding an extra layer of control and protection.
 
